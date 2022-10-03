@@ -1,0 +1,14 @@
+Bounty 1.5
+CocaCola 1.8
+BigBob 3.5
+Pepsi 1.75
+Bakuriani 1
+Milk 2
+AppleJuice 2.5
+DrPepper 3
+SevenUp 1.8
+Gorilla 2
+Twix 1.7
+Picnic 2.3
+Lays 3.7
+Doritos 4
